@@ -17,7 +17,7 @@
 ##### As metric was chosen Dice coefficient
 ## How to use
 ### To run training use script Train.py
-### To run inference on test date use script Predict-masks.py
+### To run inference on test data use script Predict-masks.py
 ### To see some insights about dataset use notebook Exploratory_analysis.ipynb
 ## Results
 Dice coefficient was nearly 0.2. 
