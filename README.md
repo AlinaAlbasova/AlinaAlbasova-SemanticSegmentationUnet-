@@ -21,4 +21,4 @@
 ### To see some insights about dataset use notebook Exploratory_analysis.ipynb
 ## Results
 Dice coefficient was nearly 0.2. 
-![Result Example](https://github.com/AlinaAlbasova/semantic_segmentation/blob/master/some_results/result1.png)
+![Result Example](https://github.com/AlinaAlbasova/AlinaAlbasova-SemanticSegmentationUnet-/blob/master/result1.png)
